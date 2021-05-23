@@ -6,5 +6,5 @@ npm start
 ## Libraries
 Bootstrap, reactsrtap
 
-## Statndart
+## Standart
 UUID
